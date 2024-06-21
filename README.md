@@ -1,7 +1,8 @@
 # LemÚn
 
+Made by Jacob Marcuson, Brian Yu, Daniel Gao, Rohan Simon Shanthanu
+
 ## Build steps:
-- Clone the repository using 'git clone git@gitlab.cs.washington.edu:cse340-24spring-students/final_project-brian127-dgao2-rshanth-jmarc23.git'
 - Cd into the repository
 - Run 'flutter pub get'
 - Run the project using 'flutter run' or whatever works
